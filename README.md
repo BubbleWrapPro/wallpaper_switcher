@@ -12,6 +12,8 @@ Ce bot Discord télécharge automatiquement des images envoyées sur un serveur 
 ## Prérequis
 - Un serveur Discord avec un bot configuré
 - Windows ou Linux (GNOME)
+- Créer un fichier token.txt dans le même répertoire
+- Créer un dossier vide "backgrounds" dans le même répertoire
 
 ## Installation
 1. Clonez ce répertoire :
